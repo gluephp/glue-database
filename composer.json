@@ -3,6 +3,7 @@
     "description": "Use mrjgreen/database in Glue",
     "type": "library",
     "require": {
+        "php": ">=5.5.0",
         "mrjgreen/database": "2.5.*"
     },
     "license": "MIT",
